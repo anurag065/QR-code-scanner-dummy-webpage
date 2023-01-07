@@ -1,0 +1,40 @@
+
+
+body{
+    background-color: hsl(220, 15%, 55%)
+
+}
+
+.picqr{
+    height: 350px;
+    width: 375px;
+    border-radius: 5%;
+
+    position: center;
+    margin-left: 12%;
+    margin-top: 1%;
+}
+h1{
+    font-family: 'Outfit', sans-serif;
+    font-size: 25px;
+    line-height: 10px;
+    
+    font-weight: 400,700;
+    text-align: center;
+}
+p{
+    
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    line-height: 1.5%;
+    font-size: 17px;
+}
+div{
+    margin-top: 5% !important;
+    background-color: aliceblue;
+    margin: auto;
+    width: 30%;
+    border: 2px ;
+    padding: 20px;
+    border-radius: 5%;
+}
